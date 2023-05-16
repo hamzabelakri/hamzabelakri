@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as an intern at **IoWaves**
 
-- 🌱 I’m currently learning **TypeScript, Nest Js, Golang, Docker,RabbitMQ**
+- 🌱 I’m currently learning **TypeScript, Nest Js, Golang, Docker, RabbitMQ**
 
 - 👨‍💻 All of my projects are available at [https://my-portoflio.netlify.app/](https://my-portoflio.netlify.app/)
 
