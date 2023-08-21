@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Belakri</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
-- 🔭 I’m currently working as an intern at **IoWaves**
+- 🔭 I’m currently working as an intern at **AutoSansRisk**
 
 - 🌱 I’m currently learning **TypeScript, Nest Js, Golang, Docker, RabbitMQ**
 
