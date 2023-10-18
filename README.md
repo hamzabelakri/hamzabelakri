@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as an intern at **AutoSansRisk**
 
-- 🌱 I’m currently learning **TypeScript, Nest Js, Golang, Docker, RabbitMQ**
+- 🌱 I’m currently learning **TypeScript, NextJs, NestJs, Docker**
 
 - 👨‍💻 All of my projects are available at [https://my-portoflio.netlify.app/](https://my-portoflio.netlify.app/)
 
