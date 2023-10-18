@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Belakri</h1>
-<h3 align="center">A passionate fullstack developer from Tunisia</h3>
+<h3 align="center">A passionate Full-Stack JS developer from Tunisia</h3>
 
 - 🔭 I’m currently working as an intern at **AutoSansRisk**
 
